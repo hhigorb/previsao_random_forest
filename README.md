@@ -1,2 +1,3 @@
-# previsao_random_forest
-Utilizando algoritmos de machine learning para prever vendas
+# Previsão com Random Forest
+
+O desafio é conseguir prever as vendas que vamos ter em determinado período com base nos gastos em anúncios nas 3 grandes redes que a empresa Hashtag investe: TV, Jornal e Rádio
